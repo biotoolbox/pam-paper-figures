@@ -1,6 +1,5 @@
 library("pam")
 
-
 data_dir <- file.path(getwd(), "data")
 output_path_pdf <- file.path(getwd(), "output_platt", "platt_plot_control.pdf")
 output_dir <- file.path(getwd(), "output_platt")
