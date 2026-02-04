@@ -1,0 +1,2 @@
+"residual_sum_of_squares","root_mean_squared_error","relative_root_mean_squared_error","a","b","c","d","alpha","beta","etrmax_with_photoinhibition","etrmax_without_photoinhibition","ik_with_photoinhibition","ik_without_photoinhibition","im_with_photoinhibition","w","ib","etrmax_with_without_ratio"
+27.8936601699674,1.36366320793094,0.0637508811620101,46.6816721014544,0.381828826701325,0.0186269010545525,NA,0.381828826701325,0.0186269010545525,38.3231282130041,46.6816721014544,100.367299515029,122.258113680793,375.087451282237,NA,2506.14269999814,1.21810703557373
