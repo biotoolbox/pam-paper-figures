@@ -218,4 +218,4 @@ combined_plot <- platt_plots / eilers_peeters_plots +
   plot_layout(guides = "collect") & theme(legend.position = "bottom")
 
 print(combined_plot)
-ggsave("figures_3.png", plot = combined_plot, width = 16, height = 12, dpi = 600)
+ggsave("figures_3.png", plot = combined_plot, width = 16, height = 12, dpi = 400)
